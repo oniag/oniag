@@ -1,8 +1,3 @@
-# Niag de Souza Alves
-
-Desenvolvedor front-end, apaixonado por inovação, focado na criação de sites e sistemas para web utilizando as melhores tecnologias existentes no mercado.
-
-
 *“As pessoas que são loucas o suficiente para achar que podem mudar o mundo são aquelas que o mudam.”*
 
 
