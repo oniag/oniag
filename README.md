@@ -1,7 +1,3 @@
-<a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/oniag/oniag" alt="Visitors badge" />
-</a>
-
 *“As pessoas que são loucas o suficiente para achar que podem mudar o mundo são aquelas que o mudam.”*
 
 
