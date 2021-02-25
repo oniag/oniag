@@ -8,7 +8,7 @@
 
 :rocket: Constantly learning new skills
 
-### Find me
+### Find me :earth_americas:
 
 [LinkedIn](https://www.linkedin.com/in/niagsouza/) | 
 [Twitter](https://twitter.com/oniag_) | 
