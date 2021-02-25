@@ -1,4 +1,4 @@
-### Hey, I'm Niag de Souza Alves :v:
+### Hey, I'm Niag :v:
 
 :brazil: Brazilian
 
